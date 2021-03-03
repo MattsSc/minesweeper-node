@@ -1,4 +1,4 @@
-#Minesweeper Node api
+# Minesweeper Node api
 
 The idea of this project is to consume minesweeper-java.
 
